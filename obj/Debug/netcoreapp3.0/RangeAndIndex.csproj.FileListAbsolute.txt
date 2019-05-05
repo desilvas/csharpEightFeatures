@@ -1,0 +1,12 @@
+E:\Medium\Core3\ConsoleApplicationdemo\bin\Debug\netcoreapp3.0\RangeAndIndex.exe
+E:\Medium\Core3\ConsoleApplicationdemo\bin\Debug\netcoreapp3.0\RangeAndIndex.deps.json
+E:\Medium\Core3\ConsoleApplicationdemo\bin\Debug\netcoreapp3.0\RangeAndIndex.runtimeconfig.json
+E:\Medium\Core3\ConsoleApplicationdemo\bin\Debug\netcoreapp3.0\RangeAndIndex.runtimeconfig.dev.json
+E:\Medium\Core3\ConsoleApplicationdemo\bin\Debug\netcoreapp3.0\RangeAndIndex.dll
+E:\Medium\Core3\ConsoleApplicationdemo\bin\Debug\netcoreapp3.0\RangeAndIndex.pdb
+E:\Medium\Core3\ConsoleApplicationdemo\obj\Debug\netcoreapp3.0\RangeAndIndex.csprojAssemblyReference.cache
+E:\Medium\Core3\ConsoleApplicationdemo\obj\Debug\netcoreapp3.0\RangeAndIndex.csproj.CoreCompileInputs.cache
+E:\Medium\Core3\ConsoleApplicationdemo\obj\Debug\netcoreapp3.0\RangeAndIndex.AssemblyInfoInputs.cache
+E:\Medium\Core3\ConsoleApplicationdemo\obj\Debug\netcoreapp3.0\RangeAndIndex.AssemblyInfo.cs
+E:\Medium\Core3\ConsoleApplicationdemo\obj\Debug\netcoreapp3.0\RangeAndIndex.dll
+E:\Medium\Core3\ConsoleApplicationdemo\obj\Debug\netcoreapp3.0\RangeAndIndex.pdb
